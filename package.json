@@ -1,5 +1,5 @@
 {
-  "name": "@expo/react-native-action-sheet",
+  "name": "@naturalclar/react-native-action-sheet",
   "version": "3.0.3",
   "description": "A cross-platform ActionSheet for React Native",
   "react-native": "lib/module/index.js",
