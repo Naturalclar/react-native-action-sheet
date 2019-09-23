@@ -70,5 +70,8 @@
       "yarn fmt",
       "git add"
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
